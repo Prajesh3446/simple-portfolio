@@ -1,0 +1,14 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Optional: custom hover effect for buttons */
+button:hover, a:hover {
+  transition: all 0.3s ease-in-out;
+  transform: scale(1.03);
+}
+
+/* Smooth shadow for cards */
+.shadow {
+  box-shadow: 0 4px 14px rgba;
+}
